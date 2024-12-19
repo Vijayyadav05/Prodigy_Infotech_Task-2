@@ -2,7 +2,7 @@
 ![WhatsApp Image 2024-12-19 at 17 18 27_6374e20f](https://github.com/user-attachments/assets/b54a212d-228d-49aa-b795-e8ee7a89be4b)
 
 # Project Overview
-This project focuses on analyzing the Titanic dataset using Python. The main goal is to explore the dataset, answer key questions, and visualize insights related to passengers aboard the Titanic.
+This project focuses on analyzing the **Titanic dataset** using Python. The main goal is to explore the dataset, answer key questions, and visualize insights related to passengers aboard the Titanic.
 
 # Key Features
 ### Data Loading
